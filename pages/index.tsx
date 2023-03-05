@@ -10,7 +10,6 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<p>welcome to next</p>
-			<p>Home page</p>
 		</>
 	);
 }
