@@ -38,7 +38,8 @@ pnpm lint
 ```
 
 
-When yu commit your codes please refer to this guideline
+When yu commit your codes please refer to this guideline. 
+Please refer `commitlint.config.js` for more information.
 
 ````
 // build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
